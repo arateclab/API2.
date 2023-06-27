@@ -1,0 +1,22 @@
+{
+    "OrderID":33456,
+    "Address":"GUIÑAZU 300",
+    "Status":"PROCESADO",
+    "Articles": [
+    {
+    "Name":"LIBROS",
+    "Quantity":20,
+    "Dangerous":false
+    },
+    {
+    "Name":"LAPICERAS",
+    "Quantity":35,
+    "Dangerous":true
+    },
+    {
+    "Name":"LAPICES",
+    "Quantity":15,
+    "Dangerous":false
+    } 
+]
+}
